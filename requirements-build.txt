@@ -1,0 +1,4 @@
+-r requirements.txt
+
+# Compiles the app into a single Windows .exe
+pyinstaller==6.10.0
